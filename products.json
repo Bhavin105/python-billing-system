@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Coca-Cola",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 2,
+        "name": "Pepsi",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 3,
+        "name": "Maaza",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 4,
+        "name": "Thumps-up",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 5,
+        "name": "Sprite",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 6,
+        "name": "7Up",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 7,
+        "name": "Mirinda",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 8,
+        "name": "Fanta",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 9,
+        "name": "Mountain Dew",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 10,
+        "name": "Campa Cola",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 11,
+        "name": "Limca",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 12,
+        "name": "Bovonto",
+        "price": 100.0,
+        "qty": 49
+    },
+    {
+        "id": 13,
+        "name": "Sosyo",
+        "price": 100.0,
+        "qty": 49
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "invoice_no": 1,
+        "date": "2026-03-09 16:16:30",
+        "total": 500.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 2,
+        "date": "2026-03-09 16:17:13",
+        "total": 100.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 3,
+        "date": "2026-03-09 16:17:29",
+        "total": 200.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 4,
+        "date": "2026-03-09 16:17:50",
+        "total": 300.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 5,
+        "date": "2026-03-09 16:21:58",
+        "total": 50100.0,
+        "payment": "Online"
+    },
+    {
+        "invoice_no": 6,
+        "date": "2026-03-09 16:22:56",
+        "total": 5400.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 7,
+        "date": "2026-03-09 16:44:52",
+        "total": 200.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 12,
+        "date": "2026-03-09 17:07:13",
+        "total": 100.0,
+        "payment": "Online"
+    },
+    {
+        "invoice_no": 13,
+        "date": "2026-03-09 18:27:31",
+        "total": 5428.0,
+        "payment": "Online"
+    },
+    {
+        "invoice_no": 14,
+        "date": "2026-03-09 19:04:03",
+        "total": 118.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 15,
+        "date": "2026-03-09 19:35:09",
+        "total": 247.8,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 16,
+        "date": "2026-03-09 19:35:27",
+        "total": 354.0,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 17,
+        "date": "2026-03-09 19:53:44",
+        "total": 6891.2,
+        "payment": "Cash"
+    },
+    {
+        "invoice_no": 18,
+        "date": "2026-03-12 18:41:28",
+        "total": 1534.0,
+        "payment": "Cash"
+    }
+]
